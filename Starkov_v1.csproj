@@ -24,4 +24,8 @@
     <None Include="Starkov_v1.sln" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Backup\" />
+  </ItemGroup>
+
 </Project>

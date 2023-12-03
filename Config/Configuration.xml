@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DB>
+	<postgree ConnectionString="Host=localhost;Port=5432;Database=STARKOV;Username=postgres;Password=2113">
+	</postgree>
+</DB>
